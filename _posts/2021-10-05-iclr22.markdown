@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Transferring Hierarchical Structure with Dual Meta Imitation Learning"
+date:   2021-10-05 08:00:00 +00:00
+image: /images/DMIL.png
+categories: research
+author: "Chongkai Gao"
+venue: "preprint"
+paper: https://cloud.tsinghua.edu.cn/f/3a612822bd774cc7a773/?dl=1
+slides: https://cloud.tsinghua.edu.cn/f/f2a30a4bcaf8494392de/?dl=1
+authors: "<strong>Chongkai Gao</strong>, Yizhou Jiang, and Feng Chen"
+---
+We present a dual meta imitation learning framework for hierarchical imitation learning methods to transfer both the learned high-level network and sub-skills quickly in new tasks.
