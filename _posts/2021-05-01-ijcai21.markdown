@@ -5,7 +5,7 @@ date:   2021-05-01 08:00:00 +00:00
 image: /images/MSFN.png
 categories: research
 author: "Yuanhao Cai"
-venue: "IJCAI"
+venue: "IJCAI (Oral)"
 paper: https://www.ijcai.org/proceedings/2021/0101.pdf
 authors: "Xiaowan Hu, Yuanhao Cai, Zhihong Liu, Haoqian Wang, and Yulun Zhang"
 ---
