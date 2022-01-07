@@ -6,6 +6,6 @@ author: "Yuanhao Cai"
 image: /images/S2SVR.png
 categories: research
 venue: "preprint"
-authors: "Jing Lin *, Xiaowan Hu *, <strong>Yuanhao Cai </strong>,  Haoqian Wang, Youliang Yan, Xueyi Zou, Henghui Ding, Yulun Zhang, Radu Timofte, and Luc Van Gool (* = Equal Contribution)"
+authors: "Anonymous Authors"
 ---
 The first sequence-to-sequence method for video restoration
