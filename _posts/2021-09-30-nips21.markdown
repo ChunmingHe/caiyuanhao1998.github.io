@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Learning to Generate Realistic Noisy Images via Pixel-level Noise-aware Adversarial Training"
+date:   2021-09-30 08:00:00 +00:00
+image: /images/PNGAN.png
+categories: research
+author: "Yuanhao Cai"
+venue: "NeurIPS"
+paper: https://proceedings.neurips.cc/paper/2021/file/1a5b1e4daae265b790965a275b53ae50-Paper.pdf
+authors: "Yuanhao Cai, Xiaowan Hu, Haoqian Wang, Yulun Zhang, Hanspeter Pfister, and Donglai Wei"
+---
+A GAN for real noisy image generation
