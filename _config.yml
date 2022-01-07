@@ -86,8 +86,12 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - CNAME
   - command.txt
   - todo.txt
   - _temp/index.html
   - _temp/
+
+deploy:
+  type: git
+  repo: https://github.com/caiyuanhao1998/caiyuanhao1998.github.io
+  branch: master
