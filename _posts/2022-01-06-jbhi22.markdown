@@ -9,4 +9,4 @@ venue: "preprint"
 paper: https://arxiv.org/abs/2201.00466
 authors: "Zhuo Deng *, <strong>Yuanhao Cai *</strong>, Lu Chen, Zheng Gong, Qiqi Bao, Xue Yao, Dong Fang, Shaochong Zhang, and Lan Ma (* = Equal Contribution)"
 ---
-The first real clinical benchmark and first Transformer-based method for fundus image restoration
+The first clinical benchmark and Transformer-based method for fundus image restoration
