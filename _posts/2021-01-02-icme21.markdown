@@ -9,4 +9,4 @@ venue: "ICME"
 paper: https://ieeexplore.ieee.org/abstract/document/9428112
 authors: "Xiaowan Hu, Haoqian Wang, <strong>Yuanhao Cai </strong>, Xiaole Zhao, and Yulun Zhang"
 ---
-An efficient architecture for image denoising
+A novel self-attention mechanism for MR image super-resolution
