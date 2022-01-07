@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "RFormer: Transformer-based Generative Adversarial Network for Real Fundus Image Restoration on A New Clinical Benchmark"
+date:   2022-01-09 08:00:00 +00:00
+image: /images/RFormer.png
+categories: research
+venue: "preprint"
+paper: https://arxiv.org/abs/2201.00466
+authors: "Zhuo Deng *, <strong>Yuanhao Cai *</strong>, Lu Chen, Zheng Gong, Qiqi Bao, Xue Yao, Dong Fang, Shaochong Zhang, and Lan Ma (* = Equal Contribution)"
+---
+The first real clinical benchmark and first Transformer-based method for fundus image restoration
