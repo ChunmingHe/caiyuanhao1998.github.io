@@ -8,4 +8,4 @@ categories: research
 venue: "preprint"
 authors: "Anonymous Authors"
 ---
-The first sequence-to-sequence method for video restoration
+The first Seq2Seq-based method for video restoration
