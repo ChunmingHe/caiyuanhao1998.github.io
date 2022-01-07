@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Multi-Scale Selective Feedback Network with Dual Loss for Real Image Denoising"
+date:   2021-05-01 08:00:00 +00:00
+image: /images/MSFN.png
+categories: research
+author: "Yuanhao Cai"
+venue: "IJCAI"
+paper: https://www.ijcai.org/proceedings/2021/0101.pdf
+authors: "Xiaowan Hu, Yuanhao Cai, Zhihong Liu, Haoqian Wang, and Yulun Zhang"
+---
+A GAN for real noisy image generation
