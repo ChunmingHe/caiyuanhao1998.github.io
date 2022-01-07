@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "EG^2N: Enhanced Gradient Guiding Network for Single MR Image Super-Resolution"
+date:   2020-10-01 08:00:00 +00:00
+image: /images/SPIE.png
+categories: research
+author: "Yuanhao Cai"
+venue: "SPIE"
+authors: "Xiaowan Hu, <strong>Yuanhao Cai</strong>, Haoqian Wang, Yanbin Peng, and Yulun Zhang"
+---
+A novel gradient guiding mechanism for MR image super-resolution
