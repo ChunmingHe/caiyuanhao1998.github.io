@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Learning Delicate Local Representations for Multi-Person Pose Estimation"
+date:   2020-12-01 08:00:00 +00:00
+image: /images/RSN.png
+categories: research
+author: "Yuanhao Cai"
+venue: "ECCV (<strong>Spotlight</strong>)"
+paper: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480460.pdf
+authors: "<strong>Yuanhao Cai *</strong>, Zhicheng Wang *, Zhengxion Luo, Binyi Yin, Ang'ang Du, Haoqian Wang, Xiangyu Zhang, Xinyu Zhou, ErJin Zhou, and Jian Sun (* = Equal Contribution)"
+---
+A multi-stage structure and an attention mechanism for accurate human pose estimation
