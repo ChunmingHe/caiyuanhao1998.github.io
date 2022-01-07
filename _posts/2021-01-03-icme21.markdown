@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Efficient Human Pose Estimation by Learning Deeply Aggregated Representations"
+date:   2021-01-03 08:00:00 +00:00
+image: /images/DANet.png
+categories: research
+author: "Yuanhao Cai"
+venue: "ICME (<strong>Oral</strong>)"
+paper: https://arxiv.org/abs/2012.07033
+authors: "Zhengxion Luo, Zhicheng Wang, <strong>Yuanhao Cai </strong>, Guan'an Wang, Liang Wang, Yan Huang, ErJin Zhou, Tieniu Tan and Jian Sun"
+---
+An DenseNet-like backbone for efficient human pose estimation
