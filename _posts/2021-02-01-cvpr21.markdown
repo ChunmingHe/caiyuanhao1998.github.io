@@ -7,6 +7,6 @@ categories: research
 author: "Yuanhao Cai"
 venue: "CVPR"
 paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Pseudo_3D_Auto-Correlation_Network_for_Real_Image_Denoising_CVPR_2021_paper.pdf
-authors: "Xiaowan Hu, Ruijun Ma, Zhihong Liu, Yuanhao Cai, Xiaole Zhao, Yulun Zhang, and Haoqian Wang"
+authors: "Xiaowan Hu, Ruijun Ma, Zhihong Liu, <strong>Yuanhao Cai </strong>, Xiaole Zhao, Yulun Zhang, and Haoqian Wang"
 ---
 An efficient architecture for image denoising
