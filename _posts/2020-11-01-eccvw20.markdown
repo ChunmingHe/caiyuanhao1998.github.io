@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Learning Delicate Local Representations for Multi-Person Pose Estimation"
+date:   2020-12-01 08:00:00 +00:00
+image: /images/UDP.png
+categories: research
+author: "Yuanhao Cai"
+venue: "ECCVW (<strong>Oral</strong>)"
+paper: https://s3-us-west-1.amazonaws.com/presentations.cocodataset.org/ECCV20/keypoints/UDP.pdf
+authors: "Junjie Huang *, Zengguang Shan *, <strong>Yuanhao Cai *</strong>,  Feng Guo, Zhengxion Luo, Yun Ye, Xinze Chen, Zheng Zhu, Guan Huang, Jiwen Lu, and Dalong Du (* = Equal Contribution)"
+---
+Winner of COCO keypoint challenge, 2020
