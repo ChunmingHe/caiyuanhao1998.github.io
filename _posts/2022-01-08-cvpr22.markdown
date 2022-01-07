@@ -7,6 +7,6 @@ categories: research
 author: "Yuanhao Cai"
 venue: "preprint"
 paper: https://arxiv.org/abs/2111.07910
-authors: "<strong>Yuanhao Cai *</strong>, Jing Lin *,  Xiaowan Hu, Haoqian Wang, Yulun Zhang, Radu Timofte, and Luc Van Gool (* = Equal Contribution)"
+authors: "<strong>Yuanhao Cai *</strong>, Jing Lin *,  Xiaowan Hu, Haoqian Wang, <a href="https://yulunzhang.com/">Yunlun Zhang</a>, Radu Timofte, and Luc Van Gool (* = Equal Contribution)"
 ---
 The first Transformer-based method for hyperspectral image reconstruction
