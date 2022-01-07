@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Pyramid Orthogonal Attention Network based on Dual Self-Similarity for Accurate Mr Image Super-Resolution"
+date:   2021-01-02 08:00:00 +00:00
+image: /images/POAN.png
+categories: research
+author: "Yuanhao Cai"
+venue: "ICME"
+paper: https://ieeexplore.ieee.org/abstract/document/9428112
+authors: "Xiaowan Hu, Haoqian Wang, <strong>Yuanhao Cai </strong>, Xiaole Zhao, and Yulun Zhang"
+---
+An efficient architecture for image denoising
