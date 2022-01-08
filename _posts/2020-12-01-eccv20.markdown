@@ -7,6 +7,6 @@ categories: research
 author: "Yuanhao Cai"
 venue: "European Conference on Computer Vision (ECCV), <strong>Spotlight</strong>"
 paper: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480460.pdf
-authors: "<strong>Yuanhao Cai *</strong>, Zhicheng Wang *, Zhengxion Luo, Binyi Yin, Ang'ang Du, Haoqian Wang, Xiangyu Zhang, Xinyu Zhou, ErJin Zhou, and Jian Sun (* = Equal Contribution)"
+authors: "<strong>Yuanhao Cai *</strong>, Zhicheng Wang *, Zhengxion Luo, Binyi Yin, Ang'ang Du, Haoqian Wang, Xiangyu Zhang, Xinyu Zhou, ErJin Zhou, and Jian Sun"
 ---
 A multi-stage structure and an attention mechanism for accurate human pose estimation

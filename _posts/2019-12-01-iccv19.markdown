@@ -7,6 +7,6 @@ categories: research
 author: "Yuanhao Cai"
 venue: "International Conference on Computer Vision Workshop (ICCVW),  <strong>Best Paper Award</strong>"
 paper: https://cocodataset.org/files/keypoints_2019_reports/Megvii.pdf
-authors: "<strong>Yuanhao Cai *</strong>, Zhicheng Wang *, Binyi Yin, Ruihao Yin, Angang Du, Zhengxiong Luo, Zeming Li, Xinyu Zhou, Gang Yu, Erjin Zhou, Xiangyu Zhang, Yichen Wei, and Jian Sun (* = Equal Contribution)"
+authors: "<strong>Yuanhao Cai *</strong>, Zhicheng Wang *, Binyi Yin, Ruihao Yin, Angang Du, Zhengxiong Luo, Zeming Li, Xinyu Zhou, Gang Yu, Erjin Zhou, Xiangyu Zhang, Yichen Wei, and Jian Sun"
 ---
 Winner of COCO keypoint challenge, 2019

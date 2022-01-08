@@ -7,6 +7,6 @@ categories: research
 author: "Yuanhao Cai"
 venue: "European Conference on Computer Vision Workshop (ECCVW), <strong>Oral</strong>"
 paper: https://s3-us-west-1.amazonaws.com/presentations.cocodataset.org/ECCV20/keypoints/UDP.pdf
-authors: "Junjie Huang *, Zengguang Shan *, <strong>Yuanhao Cai *</strong>,  Feng Guo, Zhengxion Luo, Yun Ye, Xinze Chen, Zheng Zhu, Guan Huang, Jiwen Lu, and Dalong Du (* = Equal Contribution)"
+authors: "Junjie Huang *, Zengguang Shan *, <strong>Yuanhao Cai *</strong>,  Feng Guo, Zhengxion Luo, Yun Ye, Xinze Chen, Zheng Zhu, Guan Huang, Jiwen Lu, and Dalong Du"
 ---
 Winner of COCO keypoint challenge, 2020
