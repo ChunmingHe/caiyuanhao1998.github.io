@@ -7,6 +7,6 @@ categories: research
 author: "Yuanhao Cai"
 venue: "preprint"
 paper: https://arxiv.org/pdf/2201.01893.pdf
-authors: "Jing Lin *, <strong>Yuanhao Cai *</strong>, Xiaowan Hu, Haoqian Wang, Youliang Yan, Xueyi Zou, Henghui Ding, Yulun Zhang, Radu Timofte, and Luc Van Gool (* = Equal Contribution)"
+authors: "Jing Lin *, <strong>Yuanhao Cai *</strong>, Xiaowan Hu, Haoqian Wang, Youliang Yan, Xueyi Zou, Henghui Ding, Yulun Zhang, Radu Timofte, and Luc Van Gool"
 ---
 The first Transformer-based method for video deblurring
