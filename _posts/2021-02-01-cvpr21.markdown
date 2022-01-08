@@ -7,6 +7,8 @@ categories: research
 author: "Yuanhao Cai"
 venue: "Conference on Computer Vision and Pattern Recognition (CVPR)"
 paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Pseudo_3D_Auto-Correlation_Network_for_Real_Image_Denoising_CVPR_2021_paper.pdf
+project: https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Pseudo_3D_Auto-Correlation_Network_for_Real_Image_Denoising_CVPR_2021_paper.html
+bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:j5RuUHA6hY4J:scholar.google.com/&output=citation&scisdr=CgXzW2SUEPyMrVM94AM:AAGBfm0AAAAAYdk7-ANZ3qgajKTWjp51ov4LbRlAx2Ut&scisig=AAGBfm0AAAAAYdk7-PCU7oseaTkt_LZInM0yiwN5xvon&scisf=4&ct=citation&cd=-1&hl=zh-CN
 authors: "Xiaowan Hu, Ruijun Ma, Zhihong Liu, <strong>Yuanhao Cai </strong>, Xiaole Zhao, Yulun Zhang, and Haoqian Wang"
 ---
 An efficient architecture for image denoising

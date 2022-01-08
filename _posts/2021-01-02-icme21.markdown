@@ -7,6 +7,8 @@ categories: research
 author: "Yuanhao Cai"
 venue: "International Conference on Multimedia and Expo (ICME)"
 paper: https://ieeexplore.ieee.org/abstract/document/9428112
+project: https://ieeexplore.ieee.org/abstract/document/9428112
+bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Ofe2fZC1xZIJ:scholar.google.com/&output=citation&scisdr=CgXzW2SUEPyMrVM62e4:AAGBfm0AAAAAYdk8we61UaBD8BeBXXnKhxx2V6zMEhzC&scisig=AAGBfm0AAAAAYdk8wTpan_uKVjm6K9I1RdXg5EIfPBSz&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
 authors: "Xiaowan Hu, Haoqian Wang, <strong>Yuanhao Cai </strong>, Xiaole Zhao, and Yulun Zhang"
 ---
 A novel self-attention mechanism for MR image super-resolution

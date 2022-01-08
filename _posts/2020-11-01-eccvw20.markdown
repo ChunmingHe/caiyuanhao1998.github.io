@@ -7,6 +7,9 @@ categories: research
 author: "Yuanhao Cai"
 venue: "European Conference on Computer Vision Workshop (ECCVW), <strong>Oral</strong>"
 paper: https://s3-us-west-1.amazonaws.com/presentations.cocodataset.org/ECCV20/keypoints/UDP.pdf
+leaderboard: https://cocodataset.org/#keypoints-leaderboard
+bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:He_lBdMBpIIJ:scholar.google.com/&output=citation&scisdr=CgXzW2SUEOuigV046Vk:AAGBfm0AAAAAYdk-8VkLXqolxq2tmQX5aUJVcge3aUsw&scisig=AAGBfm0AAAAAYdk-8chc7Ej2HvhteSJ3ElqkHhrPAuar&scisf=4&ct=citation&cd=-1&hl=zh-CN
+project: https://github.com/HuangJunJie2017/UDP-Pose
 authors: "Junjie Huang *, Zengguang Shan *, <strong>Yuanhao Cai *</strong>,  Feng Guo, Zhengxion Luo, Yun Ye, Xinze Chen, Zheng Zhu, Guan Huang, Jiwen Lu, and Dalong Du"
 ---
 Winner of COCO keypoint challenge, 2020

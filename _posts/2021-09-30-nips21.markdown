@@ -7,6 +7,9 @@ categories: research
 author: "Yuanhao Cai"
 venue: "Conference on Neural Information Processing Systems (NeurIPS)"
 paper: https://proceedings.neurips.cc/paper/2021/file/1a5b1e4daae265b790965a275b53ae50-Paper.pdf
+project: https://nips.cc/virtual/2021/poster/27589
+bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:6HrnCqHrQZkJ:scholar.google.com/&output=citation&scisdr=CgXzW2SUEOuigV08s4c:AAGBfm0AAAAAYdk6q4dkpylJLXPRGrxaFP6_aI4pSUmb&scisig=AAGBfm0AAAAAYdk6q7iJc0b1wz5F_UoV-TZy2OXEwEhy&scisf=4&ct=citation&cd=-1&hl=zh-CN
+leaderboard: https://noise.visinf.tu-darmstadt.de/benchmark/
 authors: "<strong>Yuanhao Cai </strong>, Xiaowan Hu, Haoqian Wang, Yulun Zhang, Hanspeter Pfister, and Donglai Wei"
 ---
 A GAN for real noisy image generation
