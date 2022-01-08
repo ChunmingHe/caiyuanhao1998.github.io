@@ -5,7 +5,7 @@ date:   2021-05-01 08:00:00 +00:00
 image: /images/MSFN.png
 categories: research
 author: "Yuanhao Cai"
-venue: "IJCAI (<strong>Oral</strong>)"
+venue: "Accepted by International Joint Conference on Artificial Intelligence (IJCAI) as <strong>Oral</strong>"
 paper: https://www.ijcai.org/proceedings/2021/0101.pdf
 authors: "Xiaowan Hu, <strong>Yuanhao Cai</strong>, Zhihong Liu, Haoqian Wang, and Yulun Zhang"
 ---
