@@ -119,10 +119,10 @@
               <!--<a href="{{post.bibtex}}">bibtex</a>-->
               <script>
                 function show(){
-                alert('{{post.bibtex}}');
+                  prompt('bibtex:','{{post.bibtex}}');
                 }
               </script>
-              <input type="reset" value="bibtex" onclick="show()"/>
+              <input type="button" value="bibtex" onclick="show()"/>
               {% endif %}
               <p></p>
               {{ post.excerpt }}
