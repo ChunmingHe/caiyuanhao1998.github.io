@@ -5,7 +5,7 @@ date:   2020-10-01 08:00:00 +00:00
 image: /images/SPIE.png
 categories: research
 author: "Yuanhao Cai"
-venue: "Accpted by Optoelectronic Imaging and Multimedia Technology VII 11550, 115500I"
+venue: "Optoelectronic Imaging and Multimedia Technology VII 11550, 115500I"
 paper: https://cloud.tsinghua.edu.cn/smart-link/64546dd3-76bf-4d97-94ad-2f6cf8488963/
 authors: "Xiaowan Hu, <strong>Yuanhao Cai</strong>, Haoqian Wang, Yanbin Peng, and Yulun Zhang"
 ---

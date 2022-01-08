@@ -5,7 +5,7 @@ date:   2021-01-03 08:00:00 +00:00
 image: /images/DANet.png
 categories: research
 author: "Yuanhao Cai"
-venue: "Accepted by IEEE International Conference on Multimedia and Expo (ICME) as <strong>Oral</strong>"
+venue: "International Conference on Multimedia and Expo (ICME), <strong>Oral</strong>"
 paper: https://arxiv.org/pdf/2012.07033.pdf
 authors: "Zhengxion Luo, Zhicheng Wang, <strong>Yuanhao Cai </strong>, Guan'an Wang, Liang Wang, Yan Huang, ErJin Zhou, Tieniu Tan and Jian Sun"
 ---

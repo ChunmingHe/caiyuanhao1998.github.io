@@ -5,7 +5,7 @@ date:   2021-09-30 08:00:00 +00:00
 image: /images/PNGAN.png
 categories: research
 author: "Yuanhao Cai"
-venue: "Accepted by Conference on Neural Information Processing Systems (NeurIPS)"
+venue: "Conference on Neural Information Processing Systems (NeurIPS)"
 paper: https://proceedings.neurips.cc/paper/2021/file/1a5b1e4daae265b790965a275b53ae50-Paper.pdf
 authors: "<strong>Yuanhao Cai </strong>, Xiaowan Hu, Haoqian Wang, Yulun Zhang, Hanspeter Pfister, and Donglai Wei"
 ---

@@ -5,7 +5,7 @@ date:   2021-01-02 08:00:00 +00:00
 image: /images/POAN.png
 categories: research
 author: "Yuanhao Cai"
-venue: "Accepted by IEEE International Conference on Multimedia and Expo (ICME)"
+venue: "IEEE International Conference on Multimedia and Expo (ICME)"
 paper: https://ieeexplore.ieee.org/abstract/document/9428112
 authors: "Xiaowan Hu, Haoqian Wang, <strong>Yuanhao Cai </strong>, Xiaole Zhao, and Yulun Zhang"
 ---
