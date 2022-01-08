@@ -104,25 +104,19 @@
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               <br>
               {% if post.paper %}
-              <a href="{{post.paper}}">paper</a> /
+              <a href="{{post.paper}}">paper</a>
               {% endif %}
               {% if post.project %}
-              <a href="{{post.project}}">project</a> /
+              / <a href="{{post.project}}">project</a>
               {% endif %}
               {% if post.code %}
               <a href="{{post.code}}">code</a> /
               {% endif %}
               {% if post.leaderboard %}
-              <a href="{{post.leaderboard}}">leaderboard</a> /
+              / <a href="{{post.leaderboard}}">leaderboard</a>
               {% endif %}
-              {% if post.bibtex %}
-              <!--<a href="{{post.bibtex}}">bibtex</a>-->
-              <script>
-                function show(){
-                  prompt('bibtex:','{{post.bibtex}}');
-                }
-              </script>
-              <input type="button" value="bibtex" onclick="show()"/>
+              {% if post.nobibtex %}
+              <a href="{{post.bibtex}}">bibtex</a>
               {% endif %}
               <p></p>
               {{ post.excerpt }}
