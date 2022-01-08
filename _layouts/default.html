@@ -116,7 +116,13 @@
               <a href="{{post.leaderboard}}">leaderboard</a> /
               {% endif %}
               {% if post.bibtex %}
-              <a href="{{post.bibtex}}">bibtex</a>
+              <!--<a href="{{post.bibtex}}">bibtex</a>-->
+              <script>
+                function show(){
+                alert('{{post.bibtex}}');
+                }
+              </script>
+              <input type="button" value="bibtex" onclick="show()"/>
               {% endif %}
               <p></p>
               {{ post.excerpt }}
