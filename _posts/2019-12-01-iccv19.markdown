@@ -10,6 +10,6 @@ paper: https://cocodataset.org/files/keypoints_2019_reports/Megvii.pdf
 bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JWg188GZgNUJ:scholar.google.com/&output=citation&scisdr=CgXzW2SUEOuigV05exc:AAGBfm0AAAAAYdk_YxfyvTEVrd3upT9oe7IrfXcZq9j3&scisig=AAGBfm0AAAAAYdk_Y32L896vPcXphjIs_rp_a4hF4D9N&scisf=4&ct=citation&cd=-1&hl=zh-CN
 project: https://github.com/caiyuanhao1998/RSN
 leaderboard: https://cocodataset.org/#keypoints-leaderboard
-authors: "<strong>Yuanhao Cai *</strong>, Zhicheng Wang *, Binyi Yin, Ruihao Yin, Angang Du, Zhengxiong Luo, Zeming Li, Xinyu Zhou, Gang Yu, Erjin Zhou, Xiangyu Zhang, Yichen Wei, and Jian Sun"
+authors: <strong>Yuanhao Cai *</strong>, <a href="https://scholar.google.com/citations?user=0QBBNGoAAAAJ&hl=zh-CN">Zhicheng Wang</a> *, Binyi Yin, Ruihao Yin, Angang Du, <a href="https://scholar.google.com.hk/citations?user=Sz1yTZsAAAAJ&hl=zh-CN">Zhengxion Luo</a>, <a href="https://www.zemingli.com/">Zeming Li</a>, <a href="https://scholar.google.com/citations?user=Jv4LCj8AAAAJ&hl=en">Xinyu Zhou</a>, <a href="https://www.skicyyu.org/">Gang Yu</a>, <a href="https://scholar.google.com/citations?user=k2ziPUsAAAAJ&hl=zh-CN">ErJin Zhou</a>, <a href="https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN">Xiangyu Zhang</a>, <a href="https://yichenwei.github.io/">Yichen Wei</a>, <a href="http://www.jiansun.org/">Jian Sun</a>
 ---
 Winner of COCO keypoint challenge, 2019

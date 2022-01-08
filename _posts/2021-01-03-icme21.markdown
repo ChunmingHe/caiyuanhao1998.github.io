@@ -9,6 +9,6 @@ venue: "International Conference on Multimedia and Expo (ICME), <strong>Oral</st
 paper: https://arxiv.org/pdf/2012.07033.pdf
 project: https://ieeexplore.ieee.org/abstract/document/9428206
 bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:5Wez0REQolQJ:scholar.google.com/&output=citation&scisdr=CgXzW2SUEPyMrVM6LYw:AAGBfm0AAAAAYdk8NYxTOaeizUPJI2n713mK8b_0oYJr&scisig=AAGBfm0AAAAAYdk8NW24lsWQRVLuta17hnauAyaohhyJ&scisf=4&ct=citation&cd=-1&hl=zh-CN
-authors: Zhengxion Luo, Zhicheng Wang, <strong>Yuanhao Cai </strong>, Guan'an Wang, Liang Wang, Yan Huang, ErJin Zhou, Tieniu Tan, Jian Sun
+authors: <a href="https://scholar.google.com.hk/citations?user=Sz1yTZsAAAAJ&hl=zh-CN">Zhengxion Luo</a>, <a href="https://scholar.google.com/citations?user=0QBBNGoAAAAJ&hl=zh-CN">Zhicheng Wang</a>, <strong>Yuanhao Cai </strong>, <a href="https://wangguanan.github.io/">Guan'an Wang</a>, <a href="http://www.cbsr.ia.ac.cn/users/liangwang/">Liang Wang</a>, <a href="https://yanrockhuang.github.io/">Yan Huang</a>, <a href="https://scholar.google.com/citations?user=k2ziPUsAAAAJ&hl=zh-CN">ErJin Zhou</a>, <a href="http://www.cbsr.ia.ac.cn/users/tnt/tnt.htm">Tieniu Tan</a>, <a href="http://www.jiansun.org/">Jian Sun</a>
 ---
 An DenseNet-like backbone for efficient human pose estimation
