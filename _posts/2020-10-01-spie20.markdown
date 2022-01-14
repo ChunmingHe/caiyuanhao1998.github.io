@@ -9,6 +9,6 @@ venue: "Optoelectronic Imaging and Multimedia Technology VII 11550, 115500I"
 paper: https://cloud.tsinghua.edu.cn/f/78a711714198479d991f/
 bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:0Ypbr7hUsEAJ:scholar.google.com/&output=citation&scisdr=CgXzW2SUEOuigV05D_Q:AAGBfm0AAAAAYdk_F_SQj3dkIjwJgXBvV2qlBufad1zw&scisig=AAGBfm0AAAAAYdk_F6L7quH2xdYkcYKhbgQfZCsZ824I&scisf=4&ct=citation&cd=-1&hl=zh-CN
 project: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11550/115500I/EG2N--enhanced-gradient-guiding-network-for-single-MR-image/10.1117/12.2575261.short?SSO=1
-authors: <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=a_WRvyIAAAAJ">Xiaowan Hu</a>, <strong>Yuanhao Cai</strong>, <a href="https://www.sigs.tsinghua.edu.cn/whq/">Haoqian Wang</a>, Yanbin Peng, <a href="https://yulunzhang.com/">Yulun Zhang</a>
+authors: <a href="https://huxiaowan.github.io/">Xiaowan Hu</a>, <strong>Yuanhao Cai</strong>, <a href="https://www.sigs.tsinghua.edu.cn/whq/">Haoqian Wang</a>, Yanbin Peng, <a href="https://yulunzhang.com/">Yulun Zhang</a>
 ---
 A novel gradient guiding mechanism for MR image super-resolution
