@@ -12,4 +12,4 @@ bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:He_lBdMBpIIJ:sc
 project: https://github.com/caiyuanhao1998/UDP-plus-plus
 authors: <a href="https://huangjunjie2017.github.io/">Junjie Huang</a> *, Zengguang Shan *, <strong>Yuanhao Cai *</strong>, Feng Guo, Yun Ye, Xinze Chen, <a href="http://www.zhengzhu.net/">Zheng Zhu</a>, Guan Huang, <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/">Jiwen Lu</a>, Dalong Du
 ---
-Winner of COCO keypoint challenge, 2020
+Winner of COCO Keypoint Detection Challenge, 2020
