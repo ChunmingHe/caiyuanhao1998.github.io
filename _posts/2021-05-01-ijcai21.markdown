@@ -9,6 +9,6 @@ venue: "International Joint Conference on Artificial Intelligence (IJCAI), <stro
 paper: https://www.ijcai.org/proceedings/2021/0101.pdf
 project: https://www.ijcai.org/proceedings/2021/101
 bibtex: https://www.ijcai.org/proceedings/2021/101
-authors: <a href="https://huxiaowan.github.io/">Xiaowan Hu</a>, <strong>Yuanhao Cai</strong>, Zhihong Liu, <a href="https://www.sigs.tsinghua.edu.cn/whq/">Haoqian Wang</a>, <a href="https://yulunzhang.com/">Yulun Zhang</a>
+authors: Xiaowan Hu, <strong>Yuanhao Cai</strong>, Zhihong Liu, <a href="https://www.sigs.tsinghua.edu.cn/whq/">Haoqian Wang</a>, <a href="https://yulunzhang.com/">Yulun Zhang</a>
 ---
 A semi-supervised method for real image denoising
