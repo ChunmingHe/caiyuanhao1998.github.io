@@ -10,6 +10,6 @@ paper: https://s3-us-west-1.amazonaws.com/presentations.cocodataset.org/ECCV20/k
 leaderboard: https://cocodataset.org/#keypoints-leaderboard
 bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:He_lBdMBpIIJ:scholar.google.com/&output=citation&scisdr=CgXzW2SUEOuigV046Vk:AAGBfm0AAAAAYdk-8VkLXqolxq2tmQX5aUJVcge3aUsw&scisig=AAGBfm0AAAAAYdk-8chc7Ej2HvhteSJ3ElqkHhrPAuar&scisf=4&ct=citation&cd=-1&hl=zh-CN
 project: https://github.com/caiyuanhao1998/UDP-plus-plus
-authors: <a href="https://huangjunjie2017.github.io/">Junjie Huang</a> *, Zengguang Shan *, <strong>Yuanhao Cai *</strong>, Feng Guo, Yun Ye, Xinze Chen, <a href="http://www.zhengzhu.net/">Zheng Zhu</a>, Guan Huang, <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/">Jiwen Lu</a>, Dalong Du
+authors: Junjie Huang *, Zengguang Shan *, <strong>Yuanhao Cai *</strong>, Feng Guo, Yun Ye, Xinze Chen, <a href="http://www.zhengzhu.net/">Zheng Zhu</a>, Guan Huang, <a href="http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/">Jiwen Lu</a>, Dalong Du
 ---
 Winner of COCO Keypoint Detection Challenge, 2020
