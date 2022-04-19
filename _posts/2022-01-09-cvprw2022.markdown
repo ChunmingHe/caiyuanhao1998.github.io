@@ -11,4 +11,4 @@ project: https://github.com/caiyuanhao1998/MST-plus-plus
 bibtex: https://arxiv.org/abs/2201.01893
 authors: <strong>Yuanhao Cai *</strong>, Jing Lin *, Zudi Lin, <a href="https://www.sigs.tsinghua.edu.cn/whq/">Haoqian Wang</a>,  <a href="https://yulunzhang.com/">Yulun Zhang</a>, <a href="https://vcg.seas.harvard.edu/people/hanspeter-pfister">Hanspeter Pfister</a>, <a href="http://people.ee.ethz.ch/~timofter/">Radu Timofte</a>, <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html">Luc Van Gool</a>
 ---
-Winner of NTIRE 2022 Challenge on Spectral Reconstruction from RGB. The first Transformer-based method for spectral reconstruction. A strong baseline and toolbox.
+Winner of NTIRE 2022 Challenge on Spectral Reconstruction from RGB. The first Transformer-based method for spectral reconstruction. A baseline and toolbox.
