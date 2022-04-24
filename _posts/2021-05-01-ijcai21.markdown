@@ -8,7 +8,7 @@ author: "Yuanhao Cai"
 venue: "International Joint Conference on Artificial Intelligence (IJCAI), <strong>Oral</strong>"
 paper: https://www.ijcai.org/proceedings/2021/0101.pdf
 project: https://www.ijcai.org/proceedings/2021/101
-bibtex: https://www.ijcai.org/proceedings/2021/101
+bibtex: /bibtex/msfn.txt
 authors: Xiaowan Hu, <strong>Yuanhao Cai</strong>, Zhihong Liu, <a href="https://www.sigs.tsinghua.edu.cn/whq/">Haoqian Wang</a>, <a href="https://yulunzhang.com/">Yulun Zhang</a>
 ---
 A semi-supervised method for real image denoising
