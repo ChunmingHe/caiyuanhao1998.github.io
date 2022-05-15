@@ -8,6 +8,6 @@ author: "Yuanhao Cai"
 venue: "International Conference on Machine Learning (ICML)"
 paper: https://arxiv.org/pdf/2201.01893.pdf
 bibtex: /bibtex/seq2seq.txt
-authors: Jing Lin *, Xiaowan Hu, <strong>Yuanhao Cai *</strong>,  <a href="https://www.sigs.tsinghua.edu.cn/whq/">Haoqian Wang</a>, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=JPUwfAMAAAAJ">Youliang Yan</a>, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0ua28KoAAAAJ">Xueyi Zou</a>, <a href="https://henghuiding.github.io/">Henghui Ding</a>, <a href="https://yulunzhang.com/">Yulun Zhang</a>, <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html">Luc Van Gool</a>
+authors: Jing Lin *, Xiaowan Hu *, <strong>Yuanhao Cai</strong>,  <a href="https://www.sigs.tsinghua.edu.cn/whq/">Haoqian Wang</a>, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=JPUwfAMAAAAJ">Youliang Yan</a>, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0ua28KoAAAAJ">Xueyi Zou</a>, <a href="https://henghuiding.github.io/">Henghui Ding</a>, <a href="https://yulunzhang.com/">Yulun Zhang</a>, <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html">Luc Van Gool</a>
 ---
 The first Sequence-to-Sequence model for video restoration
